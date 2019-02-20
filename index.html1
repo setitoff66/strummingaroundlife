@@ -1,0 +1,68 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+   <div> <title>Javascript Basics</title> </div>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+</head>
+<body>
+    
+    
+
+    <body>
+<div class="header"></div>
+<h1>Javascript Basics</h1>
+
+</div>
+<h2>Javascript Basics</h2>
+  <div>
+<div class="sidebar"></div>
+<ul style="list-style-type:circle;">
+<li><a href="https://www.w3schools.com">Javascript Overview"</a></li>
+<li><a href="https://www.w3schools.com">Variable Declaration</a></li>
+<li><a href="https://www.w3schools.com">Variable Assignment</a></li>
+<li><a href="https://www.w3schools.com">Data Type</a></li>
+<li><a href="https://www.w3schools.com">Conditionals</a></li>
+<li><a href="https://www.w3schools.com">Loops</a></li>
+<li><a href="https://www.w3schools.com">Function</a></li>
+<li><a href="https://www.w3schools.com">Projects</a></li>
+<li><a href="https://www.w3schools.com">Assignments</a></li>
+<li><a href="https://www.w3schools.com">Quiz</a></li>
+</ul>
+</div>
+
+    
+<div class="main_content">
+    <p><u>Variable Declaration</u>: Javascript is a cross-platform, object-oriented scripting language, Javascript is extremely popular for a
+        variety of reasons. It is a small and lightweight language allowing for maximum flexibility for developers to
+        take it in a bunch of different directions. Javascript lives inside a host environment( a web browser or Node
+        server), it can be connected to the objects of these environments to provide programmatic control over them.
+    </p>
+<p><u>Variable Assignment</u>: Javascript variables are containers for storing data values- imagine a cup you fill with
+    coffee, the cup holds
+the coffee, a variable holds a value. All Javascript </p>
+<p><u> Data Types</u>: Assignment Operators assign values</p>
+<p> <u>Conditionals</u>:Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni perspiciatis sint totam aliquid
+    maxime exercitationem, voluptatibus ducimus nihil excepturi beatae, eaque debitis saepe possimus ad. Unde dolorum
+    eum fugit enim!</p>
+<p><u>Loops</u>:Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni perspiciatis sint totam aliquid
+    maxime
+    exercitationem, voluptatibus ducimus nihil excepturi beatae, eaque debitis saepe possimus ad. Unde dolorum eum
+    fugit enim!</p>
+<p><u>Function</u>:Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni perspiciatis sint totam aliquid
+    maxime
+    exercitationem, voluptatibus ducimus nihil excepturi beatae, eaque debitis saepe possimus ad. Unde dolorum eum
+    fugit enim!</p>
+<p>For more useful information check out this url: <u>Javascript!</u></p>
+</div>
+<div class="footer">
+
+</div>
+
+</body>
+
+</html>
