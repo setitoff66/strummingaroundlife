@@ -1,0 +1,29 @@
+/*CSS reset settings here*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.header {
+    min-height: 120px;
+    background-color:red;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+
+.sidebar {
+    height: 300px;
+    width: 200px;
+    background-color:aquamarine;
+    
+  }
+}
+.footer {
+    min-height: 120px;
+    background-color: gray;
+    border-radius: 20px;
+    
+}
